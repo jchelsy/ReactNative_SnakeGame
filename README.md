@@ -1,1 +1,2 @@
-# ReactNative_SnakeGame
+# Snake Game
+### React Native App
